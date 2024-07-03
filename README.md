@@ -13,5 +13,5 @@ Project Completion    | Dashboard
 [HR Attrition Insights](https://github.com/Aayush-Basnet/Power-BI/blob/main/Power%20BI%20Project/HR%20Analytic%20Dashboard.pbix)      | [Dashboard in pdf](https://github.com/Aayush-Basnet/Power-BI/blob/main/HR%20Analytic%20Dashboard.pdf)
 [Customer Performance Insights](https://github.com/Aayush-Basnet/Power-BI/blob/main/Power%20BI%20Project/CustomerPerformance.pbix)   | [Dashboard in pdf](https://github.com/Aayush-Basnet/Power-BI/blob/main/CustomerPerformance.pdf)
 [Adidas Sales](https://github.com/Aayush-Basnet/Power-BI/blob/main/Power%20BI%20Project/Adidas%20Sales%20Dashboard.pbix)   | [Dashboard in pdf](https://github.com/Aayush-Basnet/Power-BI/blob/main/Adidas%20Sales%20Dashboard.pdf)
-
+[Credit Card Transaction Report](https://github.com/Aayush-Basnet/Power-BI/blob/main/Power%20BI%20Project/Credit%20Card%20Transaction%20Dashboard.pbix)  | [Dashboard in pdf](https://github.com/Aayush-Basnet/Power-BI/blob/main/Credit%20Card%20Transaction%20Dashboard.pdf)
 
